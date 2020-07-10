@@ -14,5 +14,7 @@ I found some insights after analysing the patterns in the data. And I found this
 
 ![alt text](eda1.png)
 ![alt text](eda2.png)
-![alt text](eda3.png)
+![alt text](eda3.png)  
+
+Parth Mistry © 2020
 
